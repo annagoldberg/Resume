@@ -1,0 +1,15 @@
+ol, ul {
+list-style-type: circle;
+}
+li {
+color: #9C27B0;
+}
+h1 {
+color: #4a20e4;
+}
+h2 {
+color: #2383da;
+}
+body {
+font-family: monospace;
+}								
